@@ -1,12 +1,5 @@
-# 👋 Olá! Eu sou Miguel Varjão
+# 👋 Miguel Varjão
 
-### 💻 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
-
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-🚀 Em busca de uma oportunidade de **Estágio em Desenvolvimento de Software**
-📚 Sempre aprendendo e buscando evoluir na área de Tecnologia da Informação
-
----
 
 ## 🧑‍💻 Sobre mim
 
