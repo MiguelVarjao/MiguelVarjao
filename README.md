@@ -1,4 +1,4 @@
-# 👋 Miguel Varjão
+# Miguel Varjão
 
 
 ## 🧑‍💻 Sobre mim
