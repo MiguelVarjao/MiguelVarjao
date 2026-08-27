@@ -1,7 +1,7 @@
 # Miguel Varjão
 
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha carreira na área de Tecnologia da Informação.
 
@@ -11,13 +11,13 @@ Atualmente, meu principal foco de estudos é **Java**, especialmente programaç�
 
 Gosto de aprender através da prática, desenvolvendo projetos e buscando entender não apenas como utilizar uma tecnologia, mas também como ela funciona dentro de uma aplicação.
 
-🎯 Meu objetivo é conquistar uma oportunidade de **estágio em Desenvolvimento de Software**, onde eu possa colocar meus conhecimentos em prática, aprender com profissionais experientes e contribuir com a equipe.
+Meu objetivo é conquistar uma oportunidade de **estágio em Desenvolvimento de Software**, onde eu possa colocar meus conhecimentos em prática, aprender com profissionais experientes e contribuir com a equipe.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
-### 💻 Desenvolvimento
+### Desenvolvimento
 
 
 
@@ -161,8 +161,6 @@ Projeto desenvolvido para praticar lógica de programação e conceitos fundamen
 ---
 
 <div align="center">
-
-### 💡 "O melhor código é aquele que você entende, consegue manter e pode continuar evoluindo."
 
 ⭐ Obrigado por visitar meu perfil!
 
