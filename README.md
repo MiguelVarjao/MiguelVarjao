@@ -17,36 +17,36 @@ Meu objetivo é conquistar uma oportunidade de **estágio em Desenvolvimento de 
 
 ### Tecnologias & Ferramentas
 
-Desenvolvimento
+##Desenvolvimento
 
-Java
-JavaScript
-HTML
-CSS
-Spring Boot
-React
+*Java
+*JavaScript
+*HTML
+*CSS
+*Spring Boot
+*React
 
-Bancos de Dados
+##Bancos de Dados
 
-SQL
-MySQL
-MongoDB
+*SQL
+*MySQL
+*MongoDB
 
-Sistemas Operacionais & Redes
+##Sistemas Operacionais & Redes
 
-Windows
-Linux
-Redes de Computadores
-Sistemas Operacionais
+*Windows
+*Linux
+*Redes de Computadores
+*Sistemas Operacionais
 
-Ferramentas
+##Ferramentas
 
-Git
-GitHub
-Docker
-Visual Studio Code
-IntelliJ IDEA
-Android Studio
+*Git
+*GitHub
+*Docker
+*Visual Studio Code
+*IntelliJ IDEA
+*Android Studio
 ---
 
 ## 📚 Conhecimentos
