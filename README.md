@@ -15,26 +15,38 @@ Meu objetivo é conquistar uma oportunidade de **estágio em Desenvolvimento de 
 
 ---
 
-## Tecnologias & Ferramentas
-
-### Desenvolvimento
-
+### Tecnologias & Ferramentas
+💻 Desenvolvimento
 
 
 
 
-\
-
-### 🗄️ Bancos de Dados
-
-\
-
-### 🛠️ Ferramentas
 
 
 
 
-\
+
+🗄️ Bancos de Dados
+
+
+
+
+
+
+⚙️ Sistemas Operacionais & Redes
+
+
+
+
+
+🛠️ Ferramentas
+
+
+
+
+
+
+
 
 ---
 
