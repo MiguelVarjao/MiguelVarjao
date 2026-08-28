@@ -26,20 +26,20 @@ Meu objetivo é conquistar uma oportunidade de **estágio em Desenvolvimento de 
 * Spring Boot
 * React
 
-## Bancos de Dados
+### Bancos de Dados
 
 * SQL
 * MySQL
 * MongoDB
 
-## Sistemas Operacionais & Redes
+### Sistemas Operacionais & Redes
 
 * Windows
 * Linux
 * Redes de Computadores
 * Sistemas Operacionais
 
-## Ferramentas
+### Ferramentas
 
 * Git
 * GitHub
