@@ -23,6 +23,7 @@ Meu objetivo é conquistar uma oportunidade de **estágio em Desenvolvimento de 
 * JavaScript
 * HTML
 * CSS
+* Tailwind CSS
 * Spring Boot
 * React
 
