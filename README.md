@@ -78,8 +78,8 @@ Projeto desenvolvido para praticar lógica de programação e conceitos fundamen
 ---
 
 ## Linkedin
-
-www.linkedin.com/in/miguelvarjao
+**[MiguelVarjao]
+www.linkedin.com/in/miguelvarjao**
 
 ---
 
