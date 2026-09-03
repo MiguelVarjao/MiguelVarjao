@@ -51,50 +51,6 @@ Meu objetivo é conquistar uma oportunidade de **estágio em Desenvolvimento de 
 
 ---
 
-## 📚 Conhecimentos
-
-* ☕ Java
-* 🧱 Programação Orientada a Objetos (POO)
-* 🌐 Desenvolvimento Web
-* 🔌 APIs REST
-* 🗄️ SQL e bancos de dados
-* 🔀 Git e GitHub
-* 🐳 Docker
-* 📐 UML e modelagem de sistemas
-* 🏗️ Arquitetura de software
-* 🧠 Lógica de programação
-* 💾 Estruturas de dados
-* ⚙️ Engenharia de software
-
----
-
-## 🌱 Atualmente estudando
-
-```text
-Java
- ├── POO
- ├── Collections
- ├── Exceptions
- └── Boas práticas
-
-Backend
- ├── Spring Boot
- ├── APIs REST
- └── Integração com bancos de dados
-
-Banco de Dados
- ├── MySQL
- ├── SQL
- └── Modelagem
-
-Dev Tools
- ├── Git
- ├── GitHub
- └── Docker
-```
-
----
-
 ## 💻 Projetos
 
 ### 📚 Biblioteca no Terminal
@@ -121,60 +77,10 @@ Projeto desenvolvido para praticar lógica de programação e conceitos fundamen
 
 ---
 
-## 📈 Minha jornada
+## Linkedin
 
-```text
-🎓 ADS
-   │
-   ├── 🧠 Lógica de Programação
-   │
-   ├── ☕ Java
-   │      └── POO
-   │
-   ├── 🗄️ Banco de Dados
-   │
-   ├── 🌐 Desenvolvimento Web
-   │
-   ├── 🔌 APIs
-   │
-   ├── 🚀 Spring Boot
-   │
-   └── 💼 Estágio em Desenvolvimento
-```
+www.linkedin.com/in/miguelvarjao
 
 ---
-
-## 🎯 Objetivos
-
-* 💼 Conseguir minha primeira oportunidade como desenvolvedor
-* ☕ Aprofundar meus conhecimentos em Java
-* 🚀 Evoluir em Spring Boot e desenvolvimento backend
-* 🔌 Desenvolver e consumir APIs REST
-* 🗄️ Aprofundar conhecimentos em bancos de dados
-* 🐳 Evoluir meus conhecimentos em Docker
-* 🏗️ Aprender mais sobre arquitetura de software
-* 📈 Continuar evoluindo profissionalmente na área de TI
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-</div>
-
----
-
-## 🤝 Vamos nos conectar?
-
-<div align="center">
-
-</div>
-
----
-
-<div align="center">
 
 ⭐ Obrigado por visitar meu perfil!
-
-</div>
