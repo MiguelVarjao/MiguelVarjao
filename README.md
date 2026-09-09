@@ -7,7 +7,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo 
 
 Tenho interesse em **desenvolvimento de software, backend, frontend, bancos de dados, APIs, arquitetura de sistemas e infraestrutura**.
 
-Atualmente, meu principal foco de estudos é **Java**, especialmente programação orientada a objetos e desenvolvimento backend, enquanto também venho explorando outras tecnologias e ferramentas importantes para o mercado.
+Atualmente, meu principal foco de estudos é **desenvolvimento backend**, enquanto também venho explorando outras tecnologias e ferramentas importantes para o mercado.
 
 Gosto de aprender através da prática, desenvolvendo projetos e buscando entender não apenas como utilizar uma tecnologia, mas também como ela funciona dentro de uma aplicação.
 
