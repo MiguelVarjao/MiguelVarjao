@@ -53,15 +53,15 @@ Meu objetivo é conquistar uma oportunidade de **estágio em Desenvolvimento de 
 
 ## 💻 Projetos
 
-### 📚 Biblioteca no Terminal
+### 📚 Gerenciador de Tarefas
 
-Sistema desenvolvido em Java para gerenciamento de uma biblioteca através do terminal.
+Aplicação web desenvolvida em React para gerenciamento de tarefas.
 
 **Principais conceitos utilizados:**
 
-`Java` `POO` `ArrayList` `Scanner` `Encapsulamento`
+`React` `JavaScript` `Tailwind CSS` `Vite`
 
-🔗 **[Ver projeto no GitHub](https://github.com/miguelvarjao/Biblioteca-no-Terminal)**
+🔗 **[Ver projeto no GitHub](https://github.com/MiguelVarjao/Gerenciador-Tarefas-Basico)**
 
 ---
 
