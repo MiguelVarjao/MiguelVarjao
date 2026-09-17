@@ -65,15 +65,15 @@ Aplicação web desenvolvida em React para gerenciamento de tarefas.
 
 ---
 
-### 💳 Caixa Eletrônico
+### 💳 Site de Cursos
 
-Projeto desenvolvido para praticar lógica de programação e conceitos fundamentais de desenvolvimento em Java.
+Projeto desenvolvido para Faculdade.
 
 **Conceitos utilizados:**
 
-`Java` `Métodos` `Condicionais` `Loops` `Scanner`
+`React` `JavaScript` `Tailwind CSS` `PostgreSQL`
 
-🔗 **[Ver projetos](https://github.com/miguelvarjao)**
+🔗 **[Ver projetos](https://github.com/leopaulaferreira/ETP-Systems)**
 
 ---
 
