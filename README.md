@@ -53,6 +53,18 @@ Meu objetivo é conquistar uma oportunidade de **estágio em Desenvolvimento de 
 
 ## 💻 Projetos
 
+### 📚 Employee Training Program (ETP)
+
+Plataforma web desenvolvida para treinamento e desenvolvimento profissional, com foco na capacitação e crescimento de colaboradores.
+
+**Principais conceitos utilizados:**
+
+`React` `JavaScript` `Tailwind CSS` `MySQL`
+
+🔗 **[Ver projetos](https://github.com/leopaulaferreira/ETP-Systems)**
+
+---
+
 ### 📚 Gerenciador de Tarefas
 
 Aplicação web desenvolvida em React para gerenciamento de tarefas.
@@ -63,17 +75,6 @@ Aplicação web desenvolvida em React para gerenciamento de tarefas.
 
 🔗 **[Ver projeto no GitHub](https://github.com/MiguelVarjao/Gerenciador-Tarefas-Basico)**
 
----
-
-### 💳 Site de Cursos
-
-Projeto desenvolvido para Faculdade.
-
-**Conceitos utilizados:**
-
-`React` `JavaScript` `Tailwind CSS` `PostgreSQL`
-
-🔗 **[Ver projetos](https://github.com/leopaulaferreira/ETP-Systems)**
 
 ---
 
