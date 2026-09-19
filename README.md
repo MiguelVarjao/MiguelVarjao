@@ -47,7 +47,7 @@ Meu objetivo é conquistar uma oportunidade de **estágio em Desenvolvimento de 
 * Docker
 * Visual Studio Code
 * IntelliJ IDEA
-* Android Studio
+* Cloud
 
 ---
 
@@ -61,7 +61,7 @@ Plataforma web desenvolvida para treinamento e desenvolvimento profissional, com
 
 `React` `JavaScript` `Tailwind CSS` `MySQL`
 
-🔗 **[Ver projetos](https://github.com/leopaulaferreira/ETP-Systems)**
+🔗 **[Ver projeto](https://github.com/leopaulaferreira/ETP-Systems)**
 
 ---
 
@@ -73,7 +73,7 @@ Aplicação web desenvolvida em React para gerenciamento de tarefas.
 
 `React` `JavaScript` `Tailwind CSS` `Vite`
 
-🔗 **[Ver projeto no GitHub](https://github.com/MiguelVarjao/Gerenciador-Tarefas-Basico)**
+🔗 **[Ver projeto](https://github.com/MiguelVarjao/Gerenciador-Tarefas-Basico)**
 
 
 ---
